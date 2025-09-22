@@ -6,6 +6,8 @@
 
 华逸云拥有香港唯一自营机房，提供安全可靠的云端服务器及实体服务器，适合个人或公司不同应用场景的需求 。该公司提供CN2 BGP原生IP VPS服务，并且续费价格与首次购买价格相同，在行业中具有较大竞争优势 。
 
+<img width="2408" height="983" alt="image" src="https://github.com/user-attachments/assets/d42d21a7-fe0c-4974-a0d6-721a3a598587" />
+
 华逸云提供7×24小时Telegram、WhatsApp工单技术支持，企业级响应速度，确保客户问题能够及时处理 。公司还支持魔方API对接，免费开通API，提供渠道合作服务 。
 
 ## 华逸云官网地址
